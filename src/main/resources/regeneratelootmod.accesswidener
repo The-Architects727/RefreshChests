@@ -1,0 +1,4 @@
+accessWidener v1 named
+
+accessible field net/minecraft/block/entity/LootableContainerBlockEntity lootTableId Lnet/minecraft/util/Identifier;
+accessible field net/minecraft/block/entity/LootableContainerBlockEntity lootTableSeed J
